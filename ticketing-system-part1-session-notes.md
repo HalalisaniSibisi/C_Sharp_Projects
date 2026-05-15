@@ -140,7 +140,7 @@ public class TicketingSystemDbContext : DbContext
 ### Connection String (appsettings.json)
 ```json
 "ConnectionStrings": {
-    "DefaultConnection": "Server=LAPTOP-G138HG6D\\SQLEXPRESS;Database=TicketingSystemDb;Trusted_Connection=True;TrustServerCertificate=True;"
+    "DefaultConnection": "Server=LAPTOP-\\SQLEXPRESS;Database=TicketingSystemDb;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 ```
 
